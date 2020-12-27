@@ -15,6 +15,6 @@ Todos los datos se almacenaron en una plataforma virtual de mongobd (ATLAS mongo
 
 Conectarse:
 
-desde shell mongo "mongodb+srv://mensajes.dp9ov.mongodb.net/Mensajes" --username UOH les pedira una contrasenia, usar UOHanon2020.
-desde alguna app como compass mongodb+srv://UOH:UOHanon2020@mensajes.dp9ov.mongodb.net/test
-desde vs code mongodb+srv://UOH:UOHanon2020@mensajes.dp9ov.mongodb.net/?retryWrites=true&w=majority
+desde shell mongo "mongodb+srv://mensajes.dp9ov.mongodb.net/PMD" --username UOH les pedira una contrasenia, usar UOHanon2020.
+desde alguna app como compass mongodb+srv://UOH:UOHanon2020@mensajes.dp9ov.mongodb.net/PMD
+desde vs code mongodb+srv://UOH:UOHanon2020@mensajes.dp9ov.mongodb.net/PMD?retryWrites=true&w=majority
